@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "109862893843",
+    "project_id": "financeai-d0ac9",
+    "storage_bucket": "financeai-d0ac9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109862893843:android:28dcb8895b4c55355842e6",
+        "android_client_info": {
+          "package_name": "com.aayush.financeAI"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIYSZuKN_EDBZQMKjDBsj0uMDOrl-OBko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "messagingSenderId": "109862893843"
+    }
+  ],
+  "configuration_version": "1"
+}
